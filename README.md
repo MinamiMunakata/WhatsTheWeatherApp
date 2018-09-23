@@ -3,6 +3,7 @@
 
 ## Overview
 Simple mobile application which searches for current weather in the city that user input.
+
 **Weather API** : [OpenWeatherMap](https://openweathermap.org/api)
 
 ## Major Technologies
