@@ -1,4 +1,4 @@
-# WhatsTheWeatherApp
+# What's The Weather App
 <img src="https://github.com/Minamiciccc/WhatsTheWeatherApp/blob/media/weather.png" alt="screenshot of the app" width="250px">
 
 ## Overview
